@@ -1,0 +1,10 @@
+-- Create Tables
+CREATE SCHEMA DEMO;
+CREATE TABLE HELLO_RAJ
+(
+   FIRST_NAME VARCHAR
+  ,LAST_NAME VARCHAR
+);
+
+
+Insert into HELLO_RAJ values('Raj','Mahananda');
